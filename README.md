@@ -5,4 +5,3 @@
 
 - 🍻 学院 🇨🇳 [PKU](https://www.syucu.edu.cn/) 沈阳城市建设学院
 - ⚡  Java / JavaScript / C# / Python.
-- ♟ Chinese Chess / Chess 
