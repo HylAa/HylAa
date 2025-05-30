@@ -38,8 +38,12 @@ width="100%"  height="2">
 
 <!-- [![profile](https://github-profile-trophy.vercel.app/?username=HylAa&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=HylAa&theme=algolia&column=8) -->
 
-[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/HylAa/HylAa/master/profile-3d-contrib/profile-night-rainbow.svg)
-[[![snake](./assets/github-contribution-grid-snake.svg)](https://github.com/HylAa/HylAa/blob/output/github-contribution-grid-snake.svg)](https://github.com/HylAa/HylAa/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HylAa/HylAa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HylAa/HylAa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HylAa/HylAa/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 </div>
