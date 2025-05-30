@@ -40,6 +40,7 @@ width="100%"  height="2">
 
 [![snake](https://raw.githubusercontent.com/HylAa/HylAa/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/HylAa/HylAa/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)
 [![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/HylAa/HylAa/master/profile-3d-contrib/profile-night-rainbow.svg)
+![snake](./assets/github-contribution-grid-snake.svg)
 
 
 </div>
